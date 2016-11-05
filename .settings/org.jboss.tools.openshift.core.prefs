@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.Connection=https\://jdtrujillop@api.preview.openshift.com
+org.jboss.tools.openshift.DeployProject=SampleApp
+org.jboss.tools.openshift.PodPath=
+org.jboss.tools.openshift.Service=testmicrojdtdsa@wildfly
+org.jboss.tools.openshift.SourcePath=${workspace_loc\:/SampleApp}
