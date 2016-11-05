@@ -41,9 +41,7 @@ public class micro {
 		for (Placa placa : listPlaca) {
 			if(placa.getNumPlaca().equalsIgnoreCase(numPlaca)){
 				return true;
-				
-				
-				
+						
 			}
 		}
 		
